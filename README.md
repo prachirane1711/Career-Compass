@@ -115,12 +115,10 @@ This project is documented for local development. Before deploying it publicly, 
 Potential future additions could include:
 
 - More detailed career and qualification profiles.
-- Course, college, and entrance-examination information.
-- More career-specific learning roadmaps.
-- Additional assessment questions and progress tracking.
-- Deployment to a public hosting service.
-
-These are ideas for future work and should not be considered implemented features unless they are present in the code.
+- Future trend analysis.
+- Progress tracking.
+- Accessibility Features: Implement text-to-speech and speech-to-text functionality to make Career Compass more accessible for specially-abled students.
+.
 
 ## 🎓 Intended Audience
 

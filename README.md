@@ -8,14 +8,14 @@ Career Compass is a career-guidance web application designed to help students ex
 
 - Help students explore career options that align with their interests and goals.
 - Provide personalized career recommendations through an assessment.
-- Help students consider academic streams and possible educational pathways.
+- Help students by providing structure roadmap.
 - Give users a way to revisit saved career guidance and assessment results.
 
 ## ✨ Features
 
 - **Career assessment:** Uses assessment responses to help identify relevant career areas.
 - **Career recommendations:** Presents career suggestions based on the application's recommendation logic.
-- **Academic guidance:** Supports career exploration for students at different academic stages.
+- **Academic guidance:** Supports career exploration for students at different academic stages and relevant roadmap.
 - **Accounts and login:** Allows users to register and sign in.
 - **Student profile:** Stores relevant profile information.
 - **Saved assessment activity:** Uses a local database to retain supported account and assessment information.
